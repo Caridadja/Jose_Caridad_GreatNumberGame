@@ -1,0 +1,18 @@
+@charset "UTF-8";
+body{
+	text-align: center;
+}
+.box{
+	width: 200px;
+	height: 150px;
+	padding-top: 75px;
+	background-color: red;
+	display: inline-block;
+}
+.correct{
+	width: 200px;
+	height: 150px;
+	padding: 75px;
+	background-color: green;
+	display: inline-block;
+}
